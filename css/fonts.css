@@ -1,0 +1,63 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3483841, 2017-11-14T21:33:18-0500
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Rutan-Black by The Northern Block Ltd
+ * URL: https://www.myfonts.com/fonts/northernblock/rutan/black/
+ *
+ * Webfont: Rutan-Bold by The Northern Block Ltd
+ * URL: https://www.myfonts.com/fonts/northernblock/rutan/bold/
+ *
+ * Webfont: Rutan-DemiBold by The Northern Block Ltd
+ * URL: https://www.myfonts.com/fonts/northernblock/rutan/demi-bold/
+ *
+ * Webfont: Rutan-Light by The Northern Block Ltd
+ * URL: https://www.myfonts.com/fonts/northernblock/rutan/light/
+ *
+ * Webfont: Rutan-Medium by The Northern Block Ltd
+ * URL: https://www.myfonts.com/fonts/northernblock/rutan/medium/
+ *
+ * Webfont: Rutan-Regular by The Northern Block Ltd
+ * URL: https://www.myfonts.com/fonts/northernblock/rutan/regular/
+ *
+ * Webfont: Rutan-Thin by The Northern Block Ltd
+ * URL: https://www.myfonts.com/fonts/northernblock/rutan/thin/
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3483841
+ * Licensed pageviews: 10,000
+ * Webfonts copyright: Copyright (c) 2015 by Mariya Pigoulevskaya. All rights reserved.
+ *
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3528c1");
+
+
+@font-face {font-family: 'Rutan-Black';src: url('../webfonts/3528C1_0_0.eot');src: url('../webfonts/3528C1_0_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/3528C1_0_0.woff2') format('woff2'),url('../webfonts/3528C1_0_0.woff') format('woff'),url('../webfonts/3528C1_0_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Rutan-Bold';src: url('../webfonts/3528C1_1_0.eot');src: url('../webfonts/3528C1_1_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/3528C1_1_0.woff2') format('woff2'),url('../webfonts/3528C1_1_0.woff') format('woff'),url('../webfonts/3528C1_1_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Rutan-DemiBold';src: url('../webfonts/3528C1_2_0.eot');src: url('../webfonts/3528C1_2_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/3528C1_2_0.woff2') format('woff2'),url('../webfonts/3528C1_2_0.woff') format('woff'),url('../webfonts/3528C1_2_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Rutan-Light';src: url('../webfonts/3528C1_3_0.eot');src: url('../webfonts/3528C1_3_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/3528C1_3_0.woff2') format('woff2'),url('../webfonts/3528C1_3_0.woff') format('woff'),url('../webfonts/3528C1_3_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Rutan-Medium';src: url('../webfonts/3528C1_4_0.eot');src: url('../webfonts/3528C1_4_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/3528C1_4_0.woff2') format('woff2'),url('../webfonts/3528C1_4_0.woff') format('woff'),url('../webfonts/3528C1_4_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Rutan-Regular';src: url('../webfonts/3528C1_5_0.eot');src: url('../webfonts/3528C1_5_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/3528C1_5_0.woff2') format('woff2'),url('../webfonts/3528C1_5_0.woff') format('woff'),url('../webfonts/3528C1_5_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Rutan-Thin';src: url('../webfonts/3528C1_6_0.eot');src: url('../webfonts/3528C1_6_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/3528C1_6_0.woff2') format('woff2'),url('../webfonts/3528C1_6_0.woff') format('woff'),url('../webfonts/3528C1_6_0.ttf') format('truetype');}
